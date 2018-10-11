@@ -1,0 +1,43 @@
+body{
+    
+    color: #1b5aaa;    
+    background-color: #27d330;
+}
+
+a:link{
+   color:white;
+   font-weight: bold;
+}
+
+.bsc{
+  text-shadow: 1px 1px 1px black;
+  font-weight: bold;    
+}
+
+
+.titGet{
+    color:#c3002f;
+    text-align: center;
+}
+
+#prt{
+    color: black;
+}
+
+hr{
+  border-color:#c3002f;
+  box-sizing:border-box;
+  width:100%;  
+}
+
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #c3002f;
+   color: white;
+   text-align: center;
+}
