@@ -1,6 +1,8 @@
 # Angular/CLI Busca de Cep
 Desenvolvimento de buscador de CEP com Angular
 
+-------------------------------------------------------------------------------------------------------------------------
+
 CEP search engine development with Angular, here in Brazil CEP is like ZIP CODE in the United States.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
